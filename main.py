@@ -10,6 +10,8 @@ def print_hi(name):
 
     print("More stuff")
 
+    print("Stuff that only exists in myPersonalBranch!")
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
